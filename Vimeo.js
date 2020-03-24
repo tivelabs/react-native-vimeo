@@ -5,7 +5,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { StyleSheet } from 'react-native';
-import WebView from 'react-native-webview';
 
 function getVimeoPageURL(videoId) {
   return (

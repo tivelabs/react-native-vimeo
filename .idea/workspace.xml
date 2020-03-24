@@ -1,84 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07c052b1-9fe3-4448-8164-a527314067c9" name="Default Changelist" comment="">
+    <list default="true" id="07c052b1-9fe3-4448-8164-a527314067c9" name="delete webview" comment="delete webview">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Vimeo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vimeo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/invariant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/invariant.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_fresco_drawee_1_10_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_fresco_fbcore_1_10_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_fresco_fresco_1_10_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_1_10_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_base_1_10_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_okhttp3_1_10_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_infer_annotation_infer_annotation_0_11_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_react_react_native_0_59_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_facebook_soloader_soloader_0_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_12_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/RNCWebViewFileProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/RNCWebViewManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/RNCWebViewModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/RNCWebViewPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/WebViewConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/events/TopLoadingErrorEvent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/events/TopLoadingFinishEvent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/events/TopLoadingProgressEvent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/events/TopLoadingStartEvent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/events/TopMessageEvent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/java/com/reactnativecommunity/webview/events/TopShouldStartLoadWithRequestEvent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCUIWebView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCUIWebView.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCUIWebViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCUIWebViewManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWKProcessPoolManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWKProcessPoolManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWKWebView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWKWebView.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWKWebViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWKWebViewManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWebView.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWebView.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/ios/RNCWebView.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.android.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.android.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.ios.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.ios.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.styles.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.styles.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebView.styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebViewShared.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebViewShared.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebViewShared.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebViewTypes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebViewTypes.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/lib/WebViewTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-webview/react-native-webview.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Vimeo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/Vimeo.js" />
-      </list>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="react-native-vimeo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-vimeo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ZaY4wRCNjjtrrmNxKhva2KRkEI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -87,18 +183,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,65 +196,29 @@
       <updated>1551190475906</updated>
       <workItem from="1551190477090" duration="1066000" />
       <workItem from="1562925682737" duration="3099000" />
+      <workItem from="1585078487511" duration="1435000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4165000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23297872" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vimeo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete webview" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete webview" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="205" y="62" key="CommitChangelistDialog2" timestamp="1585079913121">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="205" y="62" key="CommitChangelistDialog2/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1585079913121" />
+    <state width="209" height="444" key="Git.Branch.Popup" timestamp="1585078669358">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="209" height="444" key="Git.Branch.Popup/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1585078669358" />
+    <state x="597" y="384" width="527" height="233" key="VCS.EditChangelistDialog" timestamp="1585078701647">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="597" y="384" width="527" height="233" key="VCS.EditChangelistDialog/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1585078701647" />
   </component>
 </project>
